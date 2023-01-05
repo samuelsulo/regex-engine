@@ -77,7 +77,7 @@ export const parse = (re: string): State[] => {
           value: re[i + 1],
           quantifier: 'exactlyOne'
         });
-        i + 2;
+        i += 2;
         continue;
       }
 
