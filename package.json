@@ -1,0 +1,8 @@
+{
+  "name": "regex-engine",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:samuelsulo/regex-engine.git",
+  "author": "Samuel Sulo <samuelsulo@outlook.it>",
+  "license": "MIT"
+}
